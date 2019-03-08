@@ -1,0 +1,1 @@
+# Struktur-Data-D-2019
